@@ -1,0 +1,23 @@
+{
+  "name": "simple-react-calendar",
+  "version": "1.0.0",
+  "description": "Demonstration of building a simple calendar UI from raw data returned from https://gist.github.com/shirazs/0c2e71347e3a256ff4b7f12766bb0700/.",
+  "keywords": [
+    "calendar",
+    "react"
+  ],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-scripts": "3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
